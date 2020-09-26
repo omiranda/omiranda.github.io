@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Oscar Miranda-Domínguez
   avatar: IMG_0182-01.jpeg #bio-photo.jpg
-  bio: "[Assistant professor](https://med.umn.edu/bio/pediatrics-by-division/oscar-miranda%20dominguez) | [Department of Pediatrics](https://med.umn.edu/pediatrics) | [University of Minnesota](https://twin-cities.umn.edu/)"
+  bio: [Assistant professor](https://med.umn.edu/bio/pediatrics-by-division/oscar-miranda%20dominguez) | [Department of Pediatrics](https://med.umn.edu/pediatrics) | [University of Minnesota](https://twin-cities.umn.edu/)
   email: miran045@umn.edu
   # Do not include the @ symbol in your Twitter username
   twitter: oscar_m_d_mex
